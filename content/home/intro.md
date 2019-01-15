@@ -1,1 +1,2 @@
-An opinionated starter for using Gatsby v2 with React Context, tag-agnostic styled-components, page transitions and scroll events with IntersectionObserver.
+The record of my 3DCG practices. Houdini, Maya, Blender, Unity, Photoshop, Illustrator and so on.
+Step by step :D
